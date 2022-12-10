@@ -1,6 +1,6 @@
-# empty folder remover
+# empty folders remover
 
-A program that helps you delete empty folders easily.
+A program that helps you delete empty folders easily in windows.
 
 ## How to run it?
 
